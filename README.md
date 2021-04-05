@@ -28,9 +28,7 @@ after we install react apps ,
         
 1. in /app.js (Express app) add this lines
 	
-    `//client part
-    
-	app.use('/*', express.static(path.join(__dirname, 'client/build/index.html')))`
+    `app.use('/*', express.static(path.join(__dirname, 'client/build/index.html')))`
     
     just before at the end of /app.js
     
