@@ -18,7 +18,7 @@ after we install react apps ,
 * create a reactApp 
 
 		yarn create react-app client
-* in client folder add react-dom-router
+* in "client" folder add react-dom-router
 
 		yarn add react-router-dom
 
