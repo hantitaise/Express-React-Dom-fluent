@@ -20,6 +20,8 @@ after we install react apps ,
 		yarn create react-app client
 * in "client" folder add react-dom-router
 
+		cd client
+
 		yarn add react-router-dom
 
 * add Fluent ui Northstar library
